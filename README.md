@@ -12,7 +12,7 @@
 
 **B.Tech CSE @ CMR University · Builder · LLM Tinkerer**
 
-[![X](https://img.shields.io/badge/X-@Banshal__Yadav-000000?style=flat-square&logo=x)](https://twitter.com/Banshal_Yadav)
+[![X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Banshal_Yadav)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/Bansal123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banshal-yadav-528841300/)
 
